@@ -1,0 +1,175 @@
+1
+        00:00:00.370 --> 00:00:01.740
+        What is machine learning?
+        什么是机器学习？
+
+        2
+        00:00:01.740 --> 00:00:05.090
+        You probably use it dozens of times
+a day without even knowing it.
+        您可能会使用它数十次
+甚至不知道的一天。
+
+        3
+        00:00:05.090 --> 00:00:08.790
+        Each time you do a web search on Google or
+Bing, that works so well
+        每次您在 Google 或
+Bing，效果很好
+
+        4
+        00:00:08.790 --> 00:00:12.340
+        because their machine learning software
+has figured out how to rank what pages.
+        因为他们的机器学习软件
+已经弄清楚如何对哪些页面进行排名。
+
+        5
+        00:00:12.340 --> 00:00:17.230
+        When Facebook or Apple's photo application
+recognizes your friends in your pictures,
+        当 Facebook 或 Apple 的照片应用程序
+认出你照片中的朋友，
+
+        6
+        00:00:17.230 --> 00:00:18.850
+        that's also machine learning.
+        这也是机器学习。
+
+        7
+        00:00:18.850 --> 00:00:20.370
+        Each time you read your email and
+        每次您阅读电子邮件并
+
+        8
+        00:00:20.370 --> 00:00:24.490
+        a spam filter saves you from having
+to wade through tons of spam, again,
+        垃圾邮件过滤器可以帮助您避免
+再次费力地浏览大量垃圾邮件，
+
+        9
+        00:00:24.490 --> 00:00:29.390
+        that's because your computer has learned
+to distinguish spam from non-spam email.
+        那是因为你的电脑已经学会了
+区分垃圾邮件和非垃圾邮件。
+
+        10
+        00:00:29.390 --> 00:00:31.240
+        So, that's machine learning.
+        这就是机器学习。
+
+        11
+        00:00:31.240 --> 00:00:35.260
+        There's a science of getting computers to
+learn without being explicitly programmed.
+        让计算机成为一门科学
+无需明确编程即可学习。
+
+        12
+        00:00:35.260 --> 00:00:38.660
+        One of the research projects that I'm
+working on is getting robots to tidy
+        我正在进行的研究项目之一
+致力于让机器人打扫卫生
+
+        13
+        00:00:38.660 --> 00:00:39.780
+        up the house.
+        上房子。
+
+        14
+        00:00:39.780 --> 00:00:41.010
+        How do you go about doing that?
+        你打算怎样做呢？
+
+        15
+        00:00:41.010 --> 00:00:44.860
+        Well what you can do is have the robot
+watch you demonstrate the task and
+        那么你能做的就是拥有机器人
+观看您演示任务并
+
+        16
+        00:00:44.860 --> 00:00:46.000
+        learn from that.
+        从中学习。
+
+        17
+        00:00:46.000 --> 00:00:49.690
+        The robot can then watch what objects
+you pick up and where to put them and
+        然后机器人可以观察什么物体
+你拿起它们并将它们放在哪里
+
+        18
+        00:00:49.690 --> 00:00:52.000
+        try to do the same thing
+even when you aren't there.
+        尝试做同样的事情
+即使你不在场。
+
+        19
+        00:00:52.000 --> 00:00:55.460
+        For me, one of the reasons I'm
+excited about this is the AI, or
+        对我来说，我的原因之一
+对此感到兴奋的是人工智能，或者
+
+        20
+        00:00:55.460 --> 00:00:57.530
+        artificial intelligence problem.
+        人工智能问题。
+
+        21
+        00:00:57.530 --> 00:00:59.209
+        Building truly intelligent machines,
+        构建真正的智能机器，
+
+        22
+        00:00:59.209 --> 00:01:01.680
+        we can do just about anything that you or
+I can do.
+        我们可以做任何您或
+我能做到。
+
+        23
+        00:01:01.680 --> 00:01:04.920
+        Many scientists think the best way to
+make progress on this is through learning
+        许多科学家认为最好的方法是
+通过学习才能取得进步
+
+        24
+        00:01:04.920 --> 00:01:09.630
+        algorithms called neural networks,
+which mimic how the human brain works, and
+        称为神经网络的算法，
+模仿人类大脑的工作方式，并且
+
+        25
+        00:01:09.630 --> 00:01:11.030
+        I'll teach you about that, too.
+        我也会教你这一点。
+
+        26
+        00:01:11.030 --> 00:01:13.170
+        In this class,
+you learn about machine learning and
+        在这堂课上，
+你了解机器学习并且
+
+        27
+        00:01:13.170 --> 00:01:14.390
+        get to implement them yourself.
+        自己去实施它们。
+
+        28
+        00:01:14.390 --> 00:01:16.920
+        I hope you sign up on our website and
+join us.
+        我希望您在我们的网站上注册并
+加入我们。
+
+        
