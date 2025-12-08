@@ -1,0 +1,10 @@
+# config/trainer/base.yaml
+model: 
+  name: resnet50
+
+dataset: 
+  name: cifar10
+
+trainer:
+  epochs: 3
+  lr: 0.01
