@@ -1,0 +1,5 @@
+panel
+pandas
+numpy
+scikit-learn
+plotly
